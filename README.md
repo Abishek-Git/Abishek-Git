@@ -181,14 +181,6 @@ for managing customers and operations.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abishek-Git&hide_border=true&background=0d1117&stroke=8b949e&ring=2F81F7&fire=f78c40&currStreakLabel=2F81F7&sideLabels=8b949e&dates=8b949e" alt="GitHub streak" />
 
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abishek-Git&bg_color=0d1117&color=2F81F7&line=2F81F7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abishek-Git&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-
 </div>
 
 ---
